@@ -1,0 +1,21 @@
+{
+    "name": "platx/yii2-content-block-widget",
+    "description": "Widget for rendering custom table data to some block.",
+    "type": "yii2-extension",
+    "keywords": ["widget","yii2 content"," block widget"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vladyslav Platonov",
+            "email": "vlad@plat-x.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "platx\\contentblock\\": ""
+        }
+    }
+}
